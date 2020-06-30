@@ -3,7 +3,7 @@
 <ol>
     <li>Dist location contains executable file</li>
     <li><code>LogExtractor.exe -f</code> from date option</li>
-    <li><code>LogExtractor.exe -t</code> till date option</li>
+    <li><code>LogExtractor.exe -t</code> to date option</li>
     <li><code>LogExtractor.exe -i</code> logs directory option</li>
     <li><code>LogExtractor.exe -o</code> output file option</li>
     <li>All the above options are mandatory</li>
