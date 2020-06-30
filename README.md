@@ -3,7 +3,7 @@
 <hr>
 <strong>Working steps</strong>
 <ol>
-  <li> Creates .metadata file is not present or the log files in Logs directory are modified </li>
+  <li> Creates .metadata file if not present or the log files in Logs directory are modified </li>
   <li> .metadata contains start and end date of each log file </li>
   <li> left most file location of FROM DATE is found using .metadata using binary search</li>
   <li> Right most file location of TO DATE is found using .metadata using binary search</li>
