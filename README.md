@@ -1,5 +1,5 @@
 # mcqdb
-<strong>Change the from and to date within the main.py file</strong>
+<strong>Change the from and to date within the main.py file</strong> <span>Will be modified once .exe is made</span>
 <hr>
 <strong>Working steps</strong>
 <ol>
