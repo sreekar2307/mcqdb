@@ -30,4 +30,4 @@
    <li>Now we have all the information required for outputting our result.</li>
 </ol>
 <h3>Assumptions</h3>
-<p>log files are monotonic ie the timestamps are in increasing order</p>
+<p>log files timestamps are in increasing order</p>
